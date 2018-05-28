@@ -1,0 +1,116 @@
+Begin building up the storyline regarding Walker's sister. She is a hacker that has been imprisoned by the Grid Overwatch Division. Some in-character background work has already been laid down previously.
+
+-Previous Groundwork Done-
+Walker had enlisted the help of Tatters, the team's decker, to dig up some information on his sister. With the information that was provided by him and a Matrix Search of 10 hits, the results are below:
+
+Alexandria Wanderan::SIN-2838w764hjj382:32-N:CAS
+Location::Atlanta, CAS
+Meta::Human Age::22y Sex::Female Height::1.67m Weight::54.45k
+
+Alexandria Wanderan::SIN-73645tf354gd52:76-C:UCAS
+Location::Minnesota Correctional Facility, UCAS
+Meta::Human-S Age::23y Sex::Female Height::1.52m Weight::49.97k
+
+Alexandria Wanderan::SIN-49029alrd38475:32-CP:Shiawase
+Location::Osaka, Japan
+Meta::Elf Age::28y Sex::Female Height::1.45m Weight::52.37k
+
+The correct person is the second entry.
+The -S designation on Metatype means that she has SURGEd (to be determined).
+
+Imprisoned by GOD for “matrix related” crimes 6 months ago and sentenced to 35 to 50 years.
+These crimes are Cyberterrorism charges (6) against Renraku.
+Truth is, she was on a run for Ares and the fun failed.
+
+-------------------------------------------
+
+Location details & Visiting hours / process
+
+A simple Matrix search of facility has standard visiting hours (10am to 4pm).
+
+"Visitors will not be able to bring ANY devices that can (or have the possibility) to connect to the Matrix. If this is violated, then the individual is subject to immediate arrest -- so just dont try it."
+
+Sensor Suite (rating 5) with the following scanners upon entering, followed by a physical pat down and bag search
+*SIN scanner
+*MAD scanner
+*Matrix scanner (searches for silent icons)
+
+Once through the area, visitors are in a waiting room until the are called. The inmates will be brought into a visitation room, with guards (NO EXCEPTIONS!), then the visitor will be brought in. They will go through another sensor suite scan when they enter this room.
+
+The visitor and inmate will sit at a table and be 4 feet apart. They will NOT be allowed to have any contact, however they will be close enough to possibly whisper messages. The meetings are 10 minutes long.
+
+-------------------------------------------
+
+Security of the Prison
+
+The prison is fully staffed with prison guards that are armed and have access to full body security armor. In the case of a riot, they have access to milspec armor and drone support.
+
+Personel
+Standard Guard (32)
+B A R S W L I C ESS
+4 4 4 3 3 2 3 3 6
+
+Initiative 7 + 1D6
+Condition Monitor 10
+Armor 18
+Skills
+Automatics 3, Etiquette 3, Perception 2, Pistols 4, Running 4, Unarmed Combat 3
+
+Gear
+Full Body Armor w/helmet [15 + 3]
+Colt Cobra TZ-120 [SMG, Acc 4 (5), DV 7P, AP —, SA/BF/FA, RC 2 (3), 32 (c)]
+Fichetti Security 600 [Light Pistol, Acc 6 (7),DV 7P, SA, RC (1), 30 (c)]
+Stun baton [Club, Acc 4, Reach 1, DV 9S(e), AP –5, 10 charges]
+Renraku Sensei commlink (Device Rating 3)
+
+Prison Mage (1)
+B A R S W L I C ESS Mag Grade
+4 4 4 2 5 6 4 3 6 9 4
+
+Initiative 7 + 1D6
+Condition Monitor 10
+Armor 18
+Skills
+Automatics 3, Conjuring 13, Etiquette 3, Perception 2, Spellcasting 14, Running 4
+
+Gear
+Full Body Armor w/helmet [15 + 3]
+Colt Cobra TZ-120 [SMG, Acc 4 (5), DV 7P, AP —, SA/BF/FA, RC 2 (3), 32 (c)]
+Fichetti Security 600 [Light Pistol, Acc 6 (7),DV 7P, SA, RC (1), 30 (c)]
+Stun baton [Club, Acc 4, Reach 1, DV 9S(e), AP –5, 10 charges]
+Renraku Sensei commlink (Device Rating 3)
+
+Matrix Security
+Host (designed to look just like a prison)
+Rating 9
+Attack 10	Data Processing 11
+Sleaze 9	Firewall 12
+
+Patrol IC: Matrix Perception (18 vs Logic + Sleaze) every 3/rounds
+-The Patrol IC looks like security guards and will investigate any icons that do not fit into the alloted schema. Each of the "Official" icons are branded with an insignia that the IC "reads". If the icon checks out, its good. Any suspicion and other IC is launched immediately.
+Probe IC: Mark Intruder (18 [10] vs Intuition + Firewall)
+Black IC: Lay the Smackdown (18 [10] vs Intuition + Firewall)
+-Link-locked on hit
+-Causes 10DV Matrix Damage (+1DV/hit and +2DV/mark)
+-Causes an equal amount of biofeedback damage.
+
+Physical Security
+Multiple sensor suites (including motion sensors) surrounding the 20ft high cement/plastisteel polymer compound walls. Along the top of the walls are rows of monowire. There is a 4 ft gap, then another identical wall. The space in between is filled with rows of monowire.
+
+A series of guard towers (3 per face) stand another 20 ft above the top of the walls and have full 360 view. These are manned by guards and have racks for airbourne drones. These drones are launched regularly for patrol and can swarm launch if necessary.
+
+Astral Security
+There are 2 bound Spirits of Man (force 8) that patrol the perimeter of the prisons, 1 bound Spirit of Fire that guards the entrance, and an additional 6 bound Spirits of Beast that can be called upon if needed. There is one magician in the prison that has accesses to numerous spells and can astrally project. On the Astral Plane, coinciding with the physical walls are sustained Mana Barriers (Force 8).
+
+-------------------------------------------
+
+This is intended to be an almost suicidal run, especially with Matrix characters, and the probability of success is intended to be dire. However, there are still ways to do a break out.
+
+Possibility 1: Hack the system and schedule a prisoner transfer, then hit the transfer.
+Possibility 2: Impersonate a guard to get in, then escape or shoot your way out
+
+
+
+
+
+
