@@ -1,0 +1,123 @@
+Notification:
+A message is sent to the team via the usual means.  "Hey bonhomme, got a job for y'all.  Johnson is meeting you on Lake Pontchartrain on Dock 32 tonight, in 2 hours.  Its a restaurant there.  Careful on this one, friend, this restaurant is owned by the Mossino family.  Your reservation is for Johnson, Party of X (X being the number of characters) and make sure you dress the part."
+
+
+Mr Johnson: 
+The Johnson is a human male in his mid to late 40s.  He is sharply dressed in an expensive pinstriped suit and matching hat. Beneath the suit, is the telltale bulge of a weapon.  Further looking at the suit, you can see where there are hidden plates, so the suit is armored.  He has an unremarkable looking face, with the exception of a small scar beneath his eye that is mostly covered up by his glasses.  The Johnson is a representative of the Mossino family, as identified by the lapel pin that he wears.
+
+The Meet:
+The Dock 32 restaurant serves italian cuisine using true, imported italian ingredients.  Nothing on the menu is made with soy and the mere mention of it will gather funny looks from patrons and staff alike.  The atmosphere within the restaurant is that of a very high class feel.  The silverware and dishes are high end, servers are finely dress and the tables are ornately carved wood with plush chairs.  This restaurant also has physical menus.  While other places now use AR menus, Dock 32 prides itself on still using actual menus.  When you arrive, the place is pretty busy even for being late at night.  There is jazz music playing softly that is only lightly audible over the conversations going on.  The hostess, a petite, slender elf woman dressed in a form-fitting black dress with long dark hair that frames her orange eyes perfectly, welcomes you.  After she confirms your reservations, she directs you to follow her to a room towards the back of the restaurant.  This room is primarly used to host private parties and has a great view of the lake.  She urges you all to take a seat at the table and passes out menus.  Dinner today is on the house, please feel free to order whatever you like.  After about 5 minutes, the Johnson comes in and has a seat at the end of the table.  If any of the characters ordered food, then it will be delivered shortly after that.  The waitress will knock and wait for the Johnson to tell them to enter before coming in and delivering the food.  
+
+
+Job:  
+The family wants to obtain a bio-sample, a small amount of blood, skin tissue, etc, from an individual.  The individual is Pamela Rodenbush, "heir" to the Dona - Miriam Kozlowski. The sample is needed to determine parentage and establish if Rodenbush is a true heir.  She is NOT to be harmed and is to have no knowledge that a sample was acquired, as that could lead to ... difficulties.  The team has 3 days to complete this job.
+
+
+Pay:  	
+Each runner will get 12,000 nuyen (+500 / net hit [vs 13 dice])
+
+Building Details (if applicable):
+Rodenbush has a penthouse suite in the city near the airport. She is usually found going between there and the various shops / restaurants in the area.
+
+Host Details (if applicable):
+Hotel host
+Host will attempt to lock and locate the intruder, however if that fails, it will launch deadlier IC and bring in the troubleshooter.
+Normal Attribute Configuration
+Rating: 7
+Firewall: 10 Data Processing: 9 Attack: 8 Sleaze: 7
+IC Tray:
+Patrol IC:
+Matrix Perception: 14[9] Opposed by Logic + Sleaze 
+Patrols host, scans for marks, looks for illegal activity, icons running silent. Able to share info with host & other IC. 
+Patrol IC makes in Matrix Perception tests every 9 combat turn(s). 
+
+Probe IC:
+Dice Pool: 14[8] Opposed by Intuition + Firewall 
+Gains Mark (shared with Host & other IC). 
+
+Tar Baby IC:
+Dice Pool: 14[8] Opposed by Logic + Firewall 
+Link-locks target. If target already Link-locked, gains Mark (shared with other IC/Host).
+
+Binder IC:
+Dice Pool: 14[8] Opposed by Willpower + Data Processing 
+Reduces Data Processing by 1 (regardless of Net Hits). If Data Processing already 0, causes 1DV Matrix Damage per Net Hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Marker IC:
+Dice Pool: 14[8] Opposed by Willpower + Sleaze 
+Reduces Sleaze by 1 (regardless of Net Hits). If Sleaze already 0, causes 1DV Matrix Damage per net hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Black IC:
+Dice Pool: 14[8] Opposed by Intuition + Firewall 
+Link-Locks target. Matrix Damage: 8DV, +1/Net Hit, +2/Mark. Equal amount of Biofeedback Damage (Physical Damage). 
+
+Sparky IC:
+Dice Pool: 14[8] Opposed by Intuition + Firewall 
+Matrix Damage: 8DV, +1/Net Hit, +2/Mark. Equal amount of Biofeedback Damage. 
+
+Scramble IC:
+Dice Pool: 14[8] Opposed by Willpower + Firewall 
+REQUIRES 3 MARKS Target is forced to reboot. 
+
+Security Spiders:
+Standard Security Spider
+On patrol at all times.
+B A R S W L I C ESS EDG
+3 4 4 2 4 4 4 3 6.0 3
+
+Condition Monitor (P/S/M) 10/10/10
+Matrix Initiative 10 + 3D6 (cold sim)
+Matrix Damage Resistance 9
+Biofeedback Damage Resistance 8
+
+Skills
+Cracking skill group 5, Electronics skill group 5
+
+Typical Action Dice Pools
+Matrix Perception 9 [6], Hack on the Fly 9 [3], Brute Force 9 [7], Data Spike 9 [7], Erase Mark 9 [7], Trace Icon 9 [6]
+
+Gear
+Novatech Navigator [DR 3, 6/5/4/3, 3 programs] w/ Armor (factored into stats), Decryption (factored into stats), Toolbox (factored into stats)
+
+Typical deck configuration
+Attack 7, Sleaze 3, Data Processing 6, Firewall 4
+
+Security Troubleshooter Spider
+Arrives in 2 combat turns.
+B A R S W L I C ESS EDG
+4 4 5 3 5 6 6 5 6.0 4
+
+Condition Monitor (P/S/M) 10/11/10
+Limits Physical 5, Mental 8, Social 7
+Matrix Initiative 13 + 4D6 (hot sim)
+Matrix Damage Resistance 9
+Biofeedback Damage Resistance 12
+
+Skills
+Cracking skill group 8, Electronics skill group 8
+
+Typical Action Dice Pools and Limits
+Matrix Perception 14 [7], Hack on the Fly 14 [4], Brute Force 14 [7], Data Spike 16 [7], Erase Mark 14 [7], Crash Program 14 [7], Hide 14 [4]
+
+Qualities:
+Codeslinger (Data Spike)
+
+Gear
+Sony CIY-720 [DR 4, 7/6/5/4, 4 programs] w/ Toolbox (factored into stats), Hammer, Biofeedback Filter (factored into stats), Biofeedback
+
+Typical deck configuration
+Attack 7, Sleaze 4, Data Processing 7, Firewall 5
+
+Additional PayData:
+Possible additional paydata
+-Hotel guest lists / financial records
+
+Twists:
+One or two days into the run, while the team is doing legwork/surveillance, Pamela disappears.  She is seen by the team going into a place, but is not seen leaving.  She is extracted by another team working for the Zobops.  The Dona, having noticed the surveillance on Pamela, blames the runners for the disappearance.  The Mossino family thinks the runners double-crossed them.  Both mafia families would like to have a meeting with the runners, either voluntarily or .... well involuntarily.  
+
+Pamela does show up back on the streets about a week later, but is not the same as she used to be.  She has no personality, seems lifeless and is easily distracted.  This creates conflict among those involved.  The Mossino's decide that they would like Pamela eliminated (using other assets), The Dona wants her "heir" back to normal and the Zobops that caused this is hoping to incite a mob war between the two.  The Dona clears the names of the runners and asks them to find out what happened to Pamela and willing to pay 18,000 nuyen each to do so.  The Mossinos may ask the runners to complete the elimination, as the previous team failed (possibly due to the runners), and willing to pay 20,000 nuyen each.  They will have to make a choice.
+
+Fallout:
+Stopping the assassination of Rodenbush will make the Mossinos very angry, as with killing her will make the Kozlowski's extremely angry.  Getting involved and stopping the mob war will get the Zobops angry.  Any way the team decides, they will gain an ally ... and atleast one majoy, and deadly, enemy.
+
+The truth about Pamela is that she has been mind-wiped in preparation for receiving personafix implant, however, the Zobops intentionally left her in this state with out any intentions of completing the process.  However, they have "saved" her persona for use in persona chips, should the team want to restore her, well sort of restore her.
