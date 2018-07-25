@@ -1,0 +1,76 @@
+Notification:
+A message comes in from your fixer in the usual way.  "Hey bon homme, got a job for you and the Johnson seems to have a hair up is ass.  Meeting is set for the House of the Rising Sun, back in Room 4.  Apparently the Johnson wants some retirbution for something. Meeting set for 9pm tonight."
+
+Mr Johnson: 
+The Johnson is a young human male, roughly mid to late 20s.  He is dressed in a pressed three-piece business suit, complete with polished shoes. You immediately notice that there is something out of place with him.  The tie that he is wearing has been loosened and the top button on his shirt is undone. You also notice that his high priced shirt and short cropped, brown hair is drenched in sweat.  This Johnson is not from around here.  He removes his sunglasses, which reveals that he has cybereyes, as the team comes in and takes a seat. The Johnson is sexist and will only address the men in the group.  "Gentlemen, my employer has an issue that requires some assistance ..."
+
+The Meet:
+Room 4 at the House is a 15 by 15ft square room with cold plascreet walls.  Each of the rooms in the House were designed this way.  There is no matrix signal here due to the built in faraday cage that surrounds the room.  In the center of the room is a worn, wooden table and accompanying chairs.  Unfortunately there are not enough chairs for everyone.  (There will be two less than the number of people in the party).  Hanging from the ceiling is a single lightbulb that sheds just enough light to see around the room.  Sitting at the end of the table is the Johnson
+
+Job:  
+The team is being hired to recover a prototype that was sold off at a pawn shop.  The team is also tasked with finding the shadowrunner that pawned the prototype and have them eliminated.
+
+A team was previously hired to acquire research notes and a prototype weapon, if it existed, and deliver them to the Johnson.  However, after the job was completed, only the research notes were provided.  The team stated that there was no prototype.  However, the Johnson learned that the prototype was stolen with the notes and later pawned off.
+
+The prototype is a modified Ares Predator.  The schematics show that the design was meant for heavily armored targets and spirits.  However, the prototype is flawed and actually does less damage than a normal Predator. That is when it does fire (Gremlins 4)
+
+The runner that pawned the prototype is an albino troll that goes by the name of "Chalky".  He can normally be found buried in  bottles of beer at any of the number of bars in Baton Rouge.  The team that he runs with is based out of a basement apartment there.
+
+Pay:  	
+Pay is 10,000 each for the recovery of the prototype weapon with a bonus 5,000 each for the elimination of the individual that pawned off the item
+
+
+Pawn Shop Building Details:
+"Cajun Joe's Pawn Shop" is a small pawn shop that is located in Gentilly Woods neighborhood, near the canal.  It is a small run down, cement building with missing peices of siding.  An old neon open sign hung in the barred, cracked window.  The door was a solid oak wooden door with iron latches.  The building looked like something out of an old 5th World period trid.  Around the buiding was overgrown shrubbery, debris and a pair of homeless humans sitting by the corner of the building panhandling.
+
+Inside the shop, there are more signs of disrepair.  A musty smell permeates the air when you first walk in.  There are two rows of shelves, about waist high that have various trinkets and construction equipment (drills, saws, tools, etc).  A couple of lawnmowers sit towards the front of the shop.  In the back of the shop is the glass counter that contains various electronic equipment. Looking around the shop, there are oddly no weapons on display. Sitting on a chair looking at a terminal is an old grizzled dwarf male with a long scruffy beard.  He is sloppily dressed in ragged clothes and smells of cigarettes and booze.  He doesnt immediately acknowledge the team as they walk in.
+
+There is a door to the back office located behind the counter.  In the back office is a hidden built in door (behind bookshelf) that leads to the basement, which is protected by a mana barrier (Force 7).  This is where the big ticket items are, including the prototype.
+
+When asked the dwarf will deny that they sell weapons ... "brings too much trouble" he says. 
+
+
+Pawn Shop Host Details:
+Normal Attribute Configuration
+Rating: 4 Firewall: 6 Data Processing: 5 Attack: 7 Sleaze: 4
+
+IC Tray:
+Patrol IC:
+Matrix Perception: 8[5] Opposed by Logic + Sleaze 
+Patrols host, scans for marks, looks for illegal activity, icons running silent. Able to share info with host & other IC. 
+Patrol IC makes in Matrix Perception tests every 3 combat turn(s). 
+
+Probe IC:
+Dice Pool: 8[7] Opposed by Intuition + Firewall 
+Gains Mark (shared with Host & other IC). 
+
+Tar Baby IC:
+Dice Pool: 8[7] Opposed by Logic + Firewall 
+Link-locks target. If target already Link-locked, gains Mark (shared with other IC/Host).
+
+Acid IC:
+Dice Pool: 8[7] Opposed by Willpower + Firewall 
+Reduces Firewall by 1 (regardless of Net Hits). If Firewall already 0, causes 1DV Matrix Damage per Net Hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Jammer IC:
+Dice Pool: 8[7] Opposed by Willpower + Attack 
+Reduces Attack by 1 (regardless of net hits). If Attack already 0, causes 1DV Matrix Damage per net hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Marker IC:
+Dice Pool: 8[7] Opposed by Willpower + Sleaze 
+Reduces Sleaze by 1 (regardless of Net Hits). If Sleaze already 0, causes 1DV Matrix Damage per net hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Blaster IC:
+Dice Pool: 8[7] Opposed by Logic + Firewall 
+Link-Locks target. Matrix Damage: 7DV, +1/Net Hit, +2/Mark. Equal amount of Biofeedback Damage (Stun Damage). 
+
+Additional PayData:
+There are additional items in the basement that may be of use and stolen.  There is also a datastore of the shops records that contain all transactions.
+
+Twists:
+The prototype was indeed stolen from the research facility.  The shadowrunner team that did that run was offered another deal to deliver the prototype to a 3rd party and ponied up a large sum of nuyen up front to get it.  The runner team also stiffed the 3rd party.  Since they did not want the prototype, they decided to pawn it off for a paltry sum of nuyen, since they had already received a drek-ton already.
+
+This 3rd party has also sent operatives to track down these runners, which will be evident when the players get caught up in a crossfire on the streets of New Orleans.  The 3rd party is an Aztechnology hit squad.
+
+Fallout:
+If the party does eliminate "Chalky", the runner that pawned off the prototype, then the rest of the runner team may be out for blood against Havoc squad.
