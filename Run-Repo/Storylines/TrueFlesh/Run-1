@@ -1,0 +1,119 @@
+Notification:
+Your commlink buzzes as you get a message from Gator.  "Got a job for y'all, something about needing some research acquired. Says that success will lead to additional work. Meetin's out in the bayou, so cover your basis.  Here are the coordinates.  Meet there tonight at 10:00pm and dont be late."
+
+Mr Johnson: 
+The Johnson for this job is a human man in his mid to late 30s with a lean build.  He is sharply dressed in a nice, but not over-the-top, business suit.  His short cropped brown hair is blowing in the slight breeze and sometimes covers up the silver lined frame glasses that he is wearing.  He is flanked by a pair of bodyguards that are similarly dressed.  Each bodyguard does have an assault rifle shouldered.  The Johnson does not have any visible weapons.
+
+The Johnson is Philip DeSantos, an agent for the Draco Foundation.  
+
+The Meet:
+In this part of the bayou, there is always a chance of a gator being present.  However, as the party approaches the dry "island" that the Johnson is standing on, any such predators are not present.  There is also no other vehicles docked here, however, hidden behind the mangrove trees is a black helicopter with no markings.  The chopper is not exactly "hidden" per se, as it was landed there and is mostly shielded from view by the trees and shrubbery.  Once they arrive, the Johnson welcomes them and gets right to the point.
+
+
+Job:  
+The job is to acquire the research notes for a project -- "Project FR3NCH" from a research facility located at the old Destrehan Plantation property.  The research notes are needed in their entirety and may not be completely digital.  There are to be no deaths on this run.
+
+
+Pay:  	
+The pay for this job is for 8,000 each, plus the promise of future work if successful.  (+500/net hit vs 13 dice)
+
+
+Building Details (if applicable):
+The building is owned by Turner Health Advanced Chemical Organization (THACO), purchased 8 years ago.
+
+The main building on Destrehan Plantation is the same as it has been for decades, however, the security has been beefed up behind the scenes.  The plantation house itself is used as an event location for weddings, corporate parties, etc, but that is just the facade.  Inside of the house is a hidden elevator that leads to an underground research facility.  This is where the notes are being kept.  The elevator requires a special rfid keycard to access and has only one stop.  However, inside of the elevator, there are 13 buttons.  If the wrong button is pressed, then the elevator car is sealed, gassed and awaiting security response.  The correct button to press is '3', as clued in the project name.  Inspection of the control panel will reveal that all but one key will fail, but no way to tell which key it is.  The right applicable knowledge check would also reveal the trap buttons.  
+
+
+Host Details (if applicable):
+Normal Attribute Configuration
+Rating: 6
+Firewall: 7 Data Processing: 9 Attack: 8 Sleaze: 6
+
+IC Tray:
+Patrol IC:
+Matrix Perception: 12[9] Opposed by Logic + Sleaze 
+Patrols host, scans for marks, looks for illegal activity, icons running silent. Able to share info with host & other IC. 
+Patrol IC makes in Matrix Perception tests every 5 combat turn(s). 
+
+Probe IC:
+Dice Pool: 12[8] Opposed by Intuition + Firewall 
+Gains Mark (shared with Host & other IC). 
+
+Tar Baby IC:
+Dice Pool: 12[8] Opposed by Logic + Firewall 
+Link-locks target. If target already Link-locked, gains Mark (shared with other IC/Host).
+
+Acid IC:
+Dice Pool: 12[8] Opposed by Willpower + Firewall 
+Reduces Firewall by 1 (regardless of Net Hits). If Firewall already 0, causes 1DV Matrix Damage per Net Hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Marker IC:
+Dice Pool: 12[8] Opposed by Willpower + Sleaze 
+Reduces Sleaze by 1 (regardless of Net Hits). If Sleaze already 0, causes 1DV Matrix Damage per net hit. Reduction is cumulative with multiple attacks, lasts until reboot. 
+
+Blaster IC:
+Dice Pool: 12[8] Opposed by Logic + Firewall 
+Link-Locks target. Matrix Damage: 8DV, +1/Net Hit, +2/Mark. Equal amount of Biofeedback Damage (Stun Damage). 
+
+
+Security Spiders:
+Junior Security Spider
+On patrol at all times.
+B A R S W L I C ESS EDG
+2 2 3 2 3 3 3 2 6.0 2
+
+Condition Monitor (P/S/M) 9/10/9
+Limits Physical 3, Mental 4, Social 5
+
+Matrix Initiative 8 + 3D6 (cold sim)
+Matrix Damage Resistance 4
+Biofeedback Damage Resistance 6
+
+Skills
+Cracking skill group 3, Electronics skill group 3
+
+Typical Action Dice Pools and Limits
+Matrix Perception 6 [5], Hack on the Fly 6 [3], Trace Icon 6 [5]
+
+Qualities:
+None
+
+Gear
+Microdeck Summit [DR 1, 4/3/3/1, 1 program] w/ Toolbox (factored into stats)
+Typical deck configuration: Attack 1, Sleaze 3, Data Processing 5, Firewall 3
+
+Standard Security Spider
+Arrives in 4 combat turns.
+B A R S W L I C ESS EDG
+3 4 4 2 4 4 4 3 6.0 3
+
+Condition Monitor (P/S/M) 10/10/10
+Matrix Initiative 10 + 3D6 (cold sim)
+Matrix Damage Resistance 9
+Biofeedback Damage Resistance 8
+
+Skills
+Cracking skill group 5, Electronics skill group 5
+
+Typical Action Dice Pools
+Matrix Perception 9 [6], Hack on the Fly 9 [3], Brute Force 9 [7], Data Spike 9 [7], Erase Mark 9 [7], Trace Icon 9 [6]
+
+Gear
+Novatech Navigator [DR 3, 6/5/4/3, 3 programs] w/ Armor (factored into stats), Decryption (factored into stats), Toolbox (factored into stats)
+
+Typical deck configuration
+Attack 7, Sleaze 3, Data Processing 6, Firewall 4
+
+
+
+Additional PayData:
+An enterprising hacker could, given time, dig into the host or the file drawers and gather project notes, formulas, etc for a small sum of nuyen (up to 10,000).
+
+
+Twists:
+No real twists in this run.  The run is designed to be the first step into the TrueFlesh project where the company, Turner Health Advanced Chemical Organization (THACO), is developing a synthetic flesh that will sustain the ghoul population.  It would be hard to extrapolate this from the research notes as a majority of the notes are discussing various synthetic compounds.
+
+
+Fallout:
+The research notes are a few years old, but they are the stepping stone to a possible synthetic flesh that would sustain the ghoul population.  Mostly just theory, formulas and conjecture, but there are possibilities.
+
