@@ -6,3 +6,6 @@ Some of these runs are built specifically for one of the campaigns, however, the
 https://lordeggnutz.com/tools/run-repo/index.html
 
 Of course, runs that I will be doing for my compaigns will likely not be posted to the site since it will be publically available.  Dont need any spoilers out there ....
+
+You can follow the exploits of Havoc Squad here
+https://lordeggnutz.com/havoc/
